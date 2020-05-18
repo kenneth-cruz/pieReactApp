@@ -7,7 +7,7 @@ The purpose was to allow the user to enter the name of a fruit they have at home
 and then the external API call from Edaman will load in 10 pie-related recipes
 according to the fruit the user typed in!
 
-## About This Application
+## Things I learned
 I learned about importing images and requiring them, reusable components, CSS modules specific to a component,
 naming conventions for classes, using State and lifting State as well.
 
