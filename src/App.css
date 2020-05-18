@@ -67,6 +67,21 @@
   }
 }
 
+@media only screen and (max-width: 768px) {
+
+}
+
+
+
+@media screen and (max-width:900px) {
+  .App{
+    width: 100%;
+  }
+  .search-bar{
+    font-size: 80%;
+  }
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
